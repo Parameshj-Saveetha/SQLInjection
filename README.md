@@ -13,3 +13,7 @@ Investigate on the various categories of tools as follows:
 
 ## Step 3:
 Open terminal and try execute some kali linux commands
+## PROGRAM:
+## OUTPUT:
+## RESULT:
+The program is executed successfully
